@@ -10,3 +10,9 @@ void Test()
 
 
 Exemple de publication de branche
+
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
